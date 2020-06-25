@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848955505964",
+    "firebase_url": "https://pi5periodo-7e018.firebaseio.com",
+    "project_id": "pi5periodo-7e018",
+    "storage_bucket": "pi5periodo-7e018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848955505964:android:4a7bbd1da04c82efc5c089",
+        "android_client_info": {
+          "package_name": "com.example.pi_5periodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848955505964-d79kuvh0a3vh7n7rf85slr7g8su7nfqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pi_5periodo",
+            "certificate_hash": "d6e2a48bb5c375ec8166ae1b114382f0d62c8bc3"
+          }
+        },
+        {
+          "client_id": "848955505964-2b7v3eoanrasognihvp2o8gsmb73rof6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkRfzSLkaF2FAxQt59TB-P_v-uZzN3J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848955505964-2b7v3eoanrasognihvp2o8gsmb73rof6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
